@@ -70,9 +70,10 @@ ul, ol{
 }
 
 
-/* Navigation */
+/* Navigation 
+=================*/
 #tf-menu {
-	padding: 20px;
+	padding: 5px;
 	transition: all 0.8s;
 }
 #tf-menu.navbar-default {
@@ -119,13 +120,15 @@ ul, ol{
 	background-position: center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
-	height: 800px;
+	height: 600px;
+	width: 100%
+
 }
 
-
-#tf-home p.lead{
-	color: #e3e3e3;
+.jumbotron {
+	background-color: #f7f8ff;
 }
+
 
 .content{
 	position: relative;
@@ -141,13 +144,11 @@ ul, ol{
  ===============*/
 
 #tf-about{
-	background: url(../img/IMG_3395.JPG);
+	background: url(../img/displaysize-background.png) no-repeat center fixed;
 	background-size: cover;
-	background-position: center;
-	background-attachment: fixed;
-	background-repeat: no-repeat;
 	color: #ffffff;
 	padding: 80px 0;
+	
 }
 
 
@@ -216,7 +217,7 @@ img.img-circle.team-img {
 }
 
 .portfolio-item{
-	margin-bottom: 30px;
+	margin-bottom: 25px;
 }
 
 
@@ -232,12 +233,12 @@ ul.footer-social li{
 	margin-right: 10px;
 }
 nav#footer p{
-	font-size: 14px;
+	font-size: 10px;
 	margin-top: 10px;
 }
 #footer i.fa {
-	font-size: 30px;
-	padding: 4px 5px;
+	font-size: 18px;
+	padding: 2px 2px;
 	color: #8c8c8c;
 	transition: all 0.5s;
 }
