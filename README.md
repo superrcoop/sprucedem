@@ -7,4 +7,4 @@
 
 ### Follow us on:
 
-* [Instagram](https://www.instagram.com/sprucenxtion)
+* [<img src="img/SprucedemLOGO_ent.png" />](https://www.instagram.com/sprucenxtion)
