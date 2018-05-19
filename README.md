@@ -1,10 +1,22 @@
+# Starter Stack
 
-<img src="img/SprucedemLOGO_ent.png" />     
+Getting Started !
+-------------------
 
+This Web app requires the latest version of [Python and Flask](http://flask.pocoo.org) and [Vuejs](https://vuejs.org/v2/guide/)
 
-# S P R U C E D E M
+Clone the repository:
 
+`$ git clone https://github.com/superrcoop/Vuejs-flask-python-starter.git`
 
-### Follow us on:
+Go into the repository:
 
-* [Instagram](https://www.instagram.com/sprucenxtion)
+`$ cd Vuejs-flask-python-starter`
+
+In your [virtual environment](https://docs.python.org/3/tutorial/venv.html), Install dependencies:
+
+`(venv)$ pip install -r requirements.txt`
+
+Run:
+
+`(venv)$ python run.py`
